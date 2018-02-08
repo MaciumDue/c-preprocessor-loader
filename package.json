@@ -1,0 +1,13 @@
+{
+  "name": "c-preprocessor-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for passing code through c-preprocessor",
+  "main": "index.js",
+  "repository": "https://github.com/FruitieX/c-preprocessor-loader",
+  "author": "FruitieX",
+  "license": "MIT",
+  "dependencies": {
+    "c-preprocessor": "^0.2.12",
+    "loader-utils": "^1.1.0"
+  }
+}
